@@ -1,2 +1,2 @@
-# Repositories for Machine Learning pipeline
-Self Learning Machine Learning Path
+# Machine Learning Self Learning Path
+1.Machine Learning Courses(Finish)

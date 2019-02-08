@@ -1,3 +1,2 @@
-# ML_Coursera
+# Repositories for Machine Learning pipeline
 Self Learning Machine Learning Path
-Self Learning 

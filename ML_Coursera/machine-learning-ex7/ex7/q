@@ -1,0 +1,35 @@
+tmp =
+
+   5.6586   4.8000
+
+tmp =
+
+   13.0875    8.2668
+
+tmp =
+
+   20.844   11.423
+
+tmp =
+
+   28.015   14.835
+
+tmp =
+
+   35.414   18.320
+
+tmp =
+
+   42.716   21.700
+
+Centroids computed after initial finding of closest centroids: 
+ 2.428301 3.157924 
+ 5.813503 2.633656 
+ 7.119387 3.616684 
+
+(the centroids should be
+   [ 2.428301 3.157924 ]
+   [ 5.813503 2.633656 ]
+   [ 7.119387 3.616684 ]
+
+Program paused. Press enter to continue.
